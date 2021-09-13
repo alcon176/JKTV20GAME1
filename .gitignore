@@ -1,4 +1,5 @@
 /build
 /dist
 /nbproject
-bulid.xml
+build.xml
+nbbuild.xml
